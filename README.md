@@ -1,8 +1,4 @@
-
-html
-js
 # Criando um projeto em React
-
 
 1º Criar a pasta do projeto
 
@@ -31,6 +27,11 @@ js
 10º Botão direito em ciama de src- new folder - dar o nome de routes
 
 11º  para criar o components - em cima da pasta botão direito- new file - dar o nome com a primeira letra maiuscula: ex: Home.jsx
+
+extensões: ES7+ React/Redux/React-Native snipets
+para criar o componene: rafce
+
+extensões: Tailwind CSS IntelliSense
 
 12º instalando as dependências para o projeto no terminal:
 
